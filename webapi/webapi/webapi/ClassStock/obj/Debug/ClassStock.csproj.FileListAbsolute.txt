@@ -1,7 +1,0 @@
-C:\Users\ASUS\Desktop\webapi\ClassStock\bin\Debug\ClassStock.dll
-C:\Users\ASUS\Desktop\webapi\ClassStock\bin\Debug\ClassStock.pdb
-C:\Users\ASUS\Desktop\webapi\ClassStock\obj\Debug\ClassStock.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Desktop\webapi\ClassStock\obj\Debug\ClassStock.dll
-C:\Users\ASUS\Desktop\webapi\ClassStock\obj\Debug\ClassStock.pdb
-C:\Users\ASUS\Desktop\webapi\ClassStock\bin\Debug\MySql.Data.dll
-C:\Users\ASUS\Desktop\webapi\ClassStock\bin\Debug\Newtonsoft.Json.dll
